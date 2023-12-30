@@ -1,0 +1,1 @@
+import{_ as r,c as o,d as s,u as t,J as a,o as n}from"./entry.186235c4.js";const c={};function l(e,_){return n(),o(a,null,[s(" This is an error! "),t(e.$slots,"default")],64)}const f=r(c,[["render",l]]);export{f as default};
