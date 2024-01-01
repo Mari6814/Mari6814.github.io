@@ -1,0 +1,1 @@
+import{o as n,c as o,v as a}from"./entry.8d9b5115.js";const l={__name:"Spacer",props:{sm:Boolean,md:Boolean,lg:Boolean,xl:Boolean,screen:Boolean},setup(e){return(c,s)=>(n(),o("div",{class:a({"h-48":e.sm,"h-60":e.md,"h-72":e.lg,"h-96":e.xl,"h-screen":e.screen})},null,2))}},m=l;export{m as _};
