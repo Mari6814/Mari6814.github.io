@@ -1,0 +1,1 @@
+import{q as a,o,c as l,u as m,v as n}from"./entry.d71a11ed.js";const c=a({__name:"FloatingSection",props:{right:Boolean,left:Boolean},setup(e){return(t,s)=>(o(),l("section",{class:n(["bg-white max-w-xs p-8 flex flex-col gap-4 md:shadow-2xl md:mr-[30vh]",{"md:max-w-lg":e.right||e.left,"md:ml-auto":e.right,"md:mr-auto":e.left}])},[m(t.$slots,"default")],2))}});export{c as _};
