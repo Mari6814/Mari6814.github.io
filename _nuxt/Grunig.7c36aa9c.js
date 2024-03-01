@@ -1,0 +1,1 @@
+import{_ as n,o,c as e}from"./entry.db13a983.js";const s={name:"Gruenig",props:{short:{type:Boolean,default:!1}}},c={key:0,class:"font-fugaz-one"},_={key:1,class:"font-fugaz-one"};function a(r,f,t,p,l,u){return t.short?(o(),e("strong",c,"GRÜNIG")):(o(),e("strong",_,"GRÜNIG PROFESSIONAL ADHESIVES"))}const d=n(s,[["render",a]]);export{d as _};
