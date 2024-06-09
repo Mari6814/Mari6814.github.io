@@ -1,0 +1,1 @@
+import{u as e}from"./index.D5TAFj7F.js";import{f as n}from"./entry.BoYx2vKR.js";import"./vue.f36acd1f.B44Ry39A.js";const g=n({__name:"agb",setup(t){return e({title:"AGB",description:"Die Allgemeinen Geschäftsbedingungen von Grünig Kleber",ogTitle:"AGB",ogDescription:"Die Allgemeinen Geschäftsbedingungen von Grünig Kleber"}),(i,o)=>" Under construction "}});export{g as default};
